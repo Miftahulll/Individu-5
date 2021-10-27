@@ -28,10 +28,9 @@ jawab: -Tulis flowgorithm pada pencarian google
        
        -dan pilih gambar C yang berbentuk segi tiga untuk melihat hasil
        
-       - dan hasil akan keluar seperti ini
+       - dan hasil akan keluar 
        
       
-      ![Screenshot 2021-10-27 222056](https://user-images.githubusercontent.com/93036509/139085724-60499053-69e9-49ff-b804-0ed54bebf139.png)
 
 
         
