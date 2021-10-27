@@ -1,1 +1,0 @@
-# Individu-5
